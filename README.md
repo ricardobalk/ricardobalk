@@ -1,25 +1,47 @@
-### About me...
+## About me...
 
 I'm Ricardo, a front-end web developer & graphic designer. I'm currently open to new opportunities in this field.
 
-#### My background
+### My background
 
 I've studied Communcation & Multimedia Design at HAN University of Applied Sciences and obtained my Bachelor of Science in February, 2019. I have an intense love for digital design, front-end web development and photography. Knowing that I both love graphic design and technology, I chose to combine those passions and become a front-end web developer.
 
-On my [website](https://ricardobalk.nl), you could learn more about the things I'm doing. There's also a portfolio available showing an overview of projects I worked on in the past.
+### What I'm currently doing
 
-#### My strenghts and preferences
+Lately, I've been exploring Vue, TypeScript and Golang and I've built some things with these tech stacks. An overview of the projects I am working on:
 
-My strengths lie within converting users' goals into working frontend code. I was lucky to work with some very knowledgeable developers in person and remotely. I have also had hands-on experience in recent years and am currently spending some time contributing to open source projects, as I love the way it empowers me to explore new technologies, collaborate and learn from others.
+- [Waarzitje.nu][], a modern API-driven location tracker built with Go 1.14, Vue 3 and TypeScript.
 
-I am looking for a frontend developer position, with a strong focus on design/user experience. I like to try out and learn new technologies and I would love to share my knowledge, potentially via open-source contributions.
+### Let get in touch :wave:
+- :mailbox: <business.inquiries@ricardobalk.nl>
+- :call_me_hand: [+31 (24) 301 0005](tel:+31243010005)
 
-I am not looking for subordinate front-end positions, where I only get to develop elementary websites or work on templates. I understand that it is part of the job as front-end developer, but prefer working on more complex (and ongoing/permanent) projects, like web applications that integrate with technologies like Webpack and Docker.
+### More links :link:
+- [Website][] &bullet; [Portfolio ][] &bullet; [LinkedIn][]
+- [Unsplash][] &bullet; [Keybase][] &bullet; [Donate][]
 
-#### What I'm currently doing
+### Geeky stuff :nerd_face:
+- PGP keys &bullet; [download all][PGP key bundle]:
+  - General: `ed25519/0x6FB4A124C63718C6` &bullet; [download][PGP key 0x6FB4A124C63718C6]
+  - Email:
+    - `ed25519/0x049F02554ACF7879` &bullet; [download][PGP key 0x049F02554ACF7879]
+    - `rsa4096/0x28A74F0729E8C4FD` &bullet; [download][PGP key 0x28A74F0729E8C4FD]
+  - Code Signing: `ed25519/0xE1B805352E85E909` &bullet; [download][PGP key 0xE1B805352E85E909]
+  - Smart card: `rsa4096/0x31DAC1B1B9A9DA69` &bullet; [download][PGP key 0x31DAC1B1B9A9DA69]
 
-Lately, I've been exploring Vue, TypeScript and Golang and I've built some things with these tech stacks.
 
-#### How to contact me
 
-Do you think we're a match? Please email me on business.inquiries@ricardobalk.nl.
+
+[Waarzitje.nu]: https://github.com/waarzitjenu
+[Website]: https://ricardobalk.nl/
+[Portfolio ]: https://ricardobalk.nl/portfolio
+[LinkedIn]: https://linkedin.com/in/ricardobalk
+[Unsplash]: https://unsplash.com/ricardobalk
+[Keybase]: https://keybase.io/ricardobalk
+[Donate]: https://bunq.me/RicardoBalkCreations
+[PGP key bundle]: https://keybase.io/ricardobalk/pgp_keys.asc
+[PGP key 0x6FB4A124C63718C6]: https://keybase.io/ricardobalk/pgp_keys.asc?fingerprint=be7c4481e0566291b494d2a16fb4a124c63718c6
+[PGP key 0x049F02554ACF7879]: https://keybase.io/ricardobalk/pgp_keys.asc?fingerprint=0b470785c770f61620d80482049f02554acf7879
+[PGP key 0x28A74F0729E8C4FD]: https://keybase.io/ricardobalk/pgp_keys.asc?fingerprint=743032f24df7783172cb469628a74f0729e8c4fd
+[PGP key 0xE1B805352E85E909]: https://keybase.io/ricardobalk/pgp_keys.asc?fingerprint=d494fbb8a982455d4d04a38be1b805352e85e909
+[PGP key 0x31DAC1B1B9A9DA69]: https://keybase.io/ricardobalk/pgp_keys.asc?fingerprint=9c1a56792176b5680fecbed031dac1b1b9a9da69
