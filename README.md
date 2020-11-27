@@ -20,14 +20,16 @@ I'm Ricardo, a front-end web developer & graphic designer. I've studied Communca
 ### Geeky stuff :nerd_face:.
 
 <details><summary>PGP keys</summary>
+<br/>
 
-- PGP keys &bullet; [download all][PGP key bundle]:
-  - General: `ed25519/0x6FB4A124C63718C6` &bullet; [download][PGP key 0x6FB4A124C63718C6]
-  - Email:
-    - `ed25519/0x049F02554ACF7879` &bullet; [download][PGP key 0x049F02554ACF7879]
-    - `rsa4096/0x28A74F0729E8C4FD` &bullet; [download][PGP key 0x28A74F0729E8C4FD]
-  - Code Signing: `ed25519/0xE1B805352E85E909` &bullet; [download][PGP key 0xE1B805352E85E909]
-  - Smart card: `rsa4096/0x31DAC1B1B9A9DA69` &bullet; [download][PGP key 0x31DAC1B1B9A9DA69]
+[Download all PGP keys][PGP key bundle]
+
+- General: `ed25519/0x6FB4A124C63718C6` &bullet; [download][PGP key 0x6FB4A124C63718C6]
+- Email:
+  - `ed25519/0x049F02554ACF7879` &bullet; [download][PGP key 0x049F02554ACF7879]
+  - `rsa4096/0x28A74F0729E8C4FD` &bullet; [download][PGP key 0x28A74F0729E8C4FD]
+- Code Signing: `ed25519/0xE1B805352E85E909` &bullet; [download][PGP key 0xE1B805352E85E909]
+- Smart card: `rsa4096/0x31DAC1B1B9A9DA69` &bullet; [download][PGP key 0x31DAC1B1B9A9DA69]
 
 </details>
 
