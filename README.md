@@ -4,8 +4,6 @@ I’m a passionate full-stack software engineer who enjoys building efficient, s
 
 In my current role, I collaborate closely with data, backend, frontend, and platform specialists to ensure seamless integration across our multi-tenant, containerized infrastructure. Within our team, we embrace challenges with confidence &mdash; reminding each other that there’s *nothing we can’t handle*.
 
-Remember - each day is an opportunity to learn, grow, and take on new challenges.
-
 ## Tech Stack
 - **Languages:** TypeScript, JavaScript (ES2015+), Python, Golang, PHP (Symfony), Cypher (Neo4j-specific), Node.js as well as some 'lower level' languages like C.
 - **Frontend:** React / Next.js, Vue / Nuxt, TailwindCSS, various CSS frameworks.
